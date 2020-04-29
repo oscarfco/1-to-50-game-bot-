@@ -1,2 +1,2 @@
-# 1to50-game-bot-
+# 1to50-Videogame-Bot
 This is a simple bot to play the game 1to50.
